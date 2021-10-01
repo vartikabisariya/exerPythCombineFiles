@@ -33,7 +33,7 @@ You may come across a number of different file types for saving and exchanging i
 
 With a foundation in some common text file formats used for data storage and exchange, you may as well take a look at some data exchange formats in common use in healthcare.
 
-### HL7 (v2.* and v3)
+### HL7 (v2.x and v3)
 
 * https://en.wikipedia.org/wiki/Health_Level_7
 * https://www.youtube.com/watch?v=ZAgdYR1rmEQ
