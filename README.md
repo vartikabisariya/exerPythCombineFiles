@@ -87,10 +87,10 @@ The HL7 v3 specification exists, but it's not widely adopted. (Complexity is a b
     * If you only had the few items in this small example it would not take long to copy and paste or manually enter the data into a spreadsheet. What if you had 100 or 1000 or more individual files. Manual entry would take a long time.
 * The Jupyter Notebook uses Python to open each file in the folder, add the contents to a single dataset, and save a new csv dataset with all the data.
 * Open the notebook file (extension .ipynb) in Jupyter Notebooks.
-* Run each cell except the last one by clicking the Run button next to the cell or the Run button under the menu.
+* (2021 update - The notebook has been reformatted to include cells for each step of the assignment. Just complete the whole notebook.) Run each cell except the last one by clicking the Run button next to the cell or the Run button under the menu.
     * See how the dataframe at the end includes the contents of each of the individual files you looked at?
 * Create a new data file for each type included in the folder. (You can use Excel to modify the content in the .xlsx and .csv files and save them under a new name in the same folder. You can use VSCode or Notepad++ to modify the content of an .xml and .json file and save those under a new name in the same folder.)
-* Now run each cell in the Jupyter Notebook again. Notice how the contents of your new files is now included in the dataframe. Run the last cell and save the data set as a csv file. Make sure your new csv file is included in your repository.
+* (2021 update - You don't need to rerun the cells. The notebook has been updated to include cells for each step. Just follow the notebook as it is currently written.) Now run each cell in the Jupyter Notebook again. Notice how the contents of your new files is now included in the dataframe. Run the last cell and save the data set as a csv file. Make sure your new csv file is included in your repository.
 
 ## Push your updated file to your GitHub repository
 
