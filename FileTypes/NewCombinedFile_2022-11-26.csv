@@ -1,0 +1,49 @@
+name,date,height,weight,Source
+Vartika Test1,4/10/20,185,95,CSVtest3.csv
+Vartika Test 2,6/7/21,172,91,CSVtest3.csv
+Brock Bricks,4/10/2019,185,95,CSVtest2.csv
+Jack Brack,6/7/2019,172,91,CSVtest2.csv
+Vartika Test1,4/10/20,185,95,CSVtest4.csv
+Vartika Test 2,6/7/21,172,91,CSVtest4.csv
+Vartika Test7,6/7/22,172,91,CSVtest4.csv
+Jack Smith,4/1/2019,185,91,CSVtest.csv
+Jack Black,4/2/2019,183,91,CSVtest.csv
+Vartika Test1,4/10/20,185,95,NewCombinedFile_2022-11-26.csv
+Vartika Test 2,6/7/21,172,91,NewCombinedFile_2022-11-26.csv
+Brock Bricks,4/10/19,185,95,NewCombinedFile_2022-11-26.csv
+Jack Brack,6/7/19,172,91,NewCombinedFile_2022-11-26.csv
+Jack Smith,4/1/19,185,91,NewCombinedFile_2022-11-26.csv
+Jack Black,4/2/19,183,91,NewCombinedFile_2022-11-26.csv
+Rock Royden,5/2/19 0:00,160,52,NewCombinedFile_2022-11-26.csv
+Brandon Snads,10/2/19 0:00,175,80,NewCombinedFile_2022-11-26.csv
+Jen Smith,5/2/19 0:00,153,50,NewCombinedFile_2022-11-26.csv
+Sam Smith,1/2/19 0:00,160,55,NewCombinedFile_2022-11-26.csv
+Vartika Test3,5/2/20 0:00,153,50,NewCombinedFile_2022-11-26.csv
+Vartika Test4,1/2/21 0:00,160,55,NewCombinedFile_2022-11-26.csv
+Vartika Test5,9/2/20,170,75,NewCombinedFile_2022-11-26.csv
+Jane Smith,9/2/19,170,75,NewCombinedFile_2022-11-26.csv
+Jane Jackson,9/3/19,172,74,NewCombinedFile_2022-11-26.csv
+Becky Jackson,4/3/19,165,70,NewCombinedFile_2022-11-26.csv
+Vartika Test6,2/8/20,180,100,NewCombinedFile_2022-11-26.csv
+John Smithe,3/8/19,185,101,NewCombinedFile_2022-11-26.csv
+Brett Smithe,5/8/19,179,99,NewCombinedFile_2022-11-26.csv
+John Smith,2/8/19,180,100,NewCombinedFile_2022-11-26.csv
+Rock Royden,2019-05-02 00:00:00,160,52,EXCELtest2.xlsx
+Brandon Snads,2019-10-02 00:00:00,175,80,EXCELtest2.xlsx
+Jen Smith,2019-05-02 00:00:00,153,50,EXCELtest.xlsx
+Sam Smith,2019-01-02 00:00:00,160,55,EXCELtest.xlsx
+Vartika Test3,2020-05-02 00:00:00,153,50,EXCELtest3.xlsx
+Vartika Test4,2021-01-02 00:00:00,160,55,EXCELtest3.xlsx
+Vartika Test3,2020-05-02 00:00:00,153,50,EXCELtest4.xlsx
+Vartika Test4,2021-01-02 00:00:00,160,55,EXCELtest4.xlsx
+Vartika Test8,2022-01-02 00:00:00,160,55,EXCELtest4.xlsx
+Vartika Test5,09/02/2020,170,75,JSONtest4.json
+Vartika Test9,09/02/2021,170,75,JSONtest5.json
+Jane Smith,09/02/2019,170,75,JSONtest.json
+Jane Jackson,09/03/2019,172,74,JSONtest2.json
+Becky Jackson,04/03/2019,165,70,JSONtest3.json
+Vartika Test6,02/08/2020,180,100,XMLtest4.xml
+Vartika Test10,02/08/2021,180,100,XMLtest5.xml
+John Smithe,03/08/2019,185,101,XMLtest2.xml
+Brett Smithe,05/08/2019,179,99,XMLtest3.xml
+John Smith,02/08/2019,180,100,XMLtest.xml
